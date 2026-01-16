@@ -1,6 +1,6 @@
 # Light Field Referring Segmentation: A benchmark and An LLM-based Approach
 
-**by Shishun Tian, Qian Xu, He Gui, Ting Su, Yan Li, and Qiong Wang***
+**by [Shishun Tian](https://shishuntian.github.io/), Qian Xu, He Gui, [Ting Su](https://www.smbu.edu.cn/info/5731/108711.htm), [Yan Li](https://homepage.zjut.edu.cn/yanl/), and [Qiong Wang](https://homepage.zjut.edu.cn/wq1/)***
 
 **[[TBC2026 Paper]]()**
 
