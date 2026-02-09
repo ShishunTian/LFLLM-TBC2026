@@ -2,7 +2,7 @@
 
 **by [Shishun Tian](https://shishuntian.github.io/), Qian Xu, He Gui, [Ting Su](https://www.smbu.edu.cn/info/5731/108711.htm), [Yan Li](https://homepage.zjut.edu.cn/yanl/), and [Qiong Wang](https://homepage.zjut.edu.cn/wq1/)***
 
-**[[TBC2026 Paper]]()**
+**[[TBC2026 Paper]](https://ieeexplore.ieee.org/document/11372620)**
 
 ## Abstract
 
