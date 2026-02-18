@@ -120,7 +120,7 @@ deepspeed --master_port=24999 train_ds.py \
 If you find LFLLM and Ref-UrbanLF useful in your research, please consider citing:
 
 ```
-@ARTICLE{11372620,
+@ARTICLE{tian2026light,
   author={Tian, Shishun and Xu, Qian and Gui, He and Su, Ting and Li, Yan and Wang, Qiong},
   journal={IEEE Transactions on Broadcasting}, 
   title={Light Field Referring Segmentation: A Benchmark and an LLM-Based Approach}, 
